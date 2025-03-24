@@ -1,0 +1,20 @@
+2025-03-24 20:24:33,894 - INFO - Starting conversion process
+2025-03-24 20:24:33,895 - INFO - Starting object processing...
+2025-03-24 20:24:34,994 - INFO - Found 0 objects in GLACIER
+2025-03-24 20:24:34,994 - INFO - Found 0 objects in GLACIER_IR
+2025-03-24 20:24:34,999 - INFO - 
+Conversion Statistics:
+2025-03-24 20:24:34,999 - INFO - 
+GLACIER Statistics:
+2025-03-24 20:24:34,999 - INFO - Total objects found: 0
+2025-03-24 20:24:34,999 - INFO - Successfully converted: 0
+2025-03-24 20:24:34,999 - INFO - Failed conversions: 0
+2025-03-24 20:24:34,999 - INFO - Skipped conversions: 0
+2025-03-24 20:24:34,999 - INFO - 
+GLACIER_IR Statistics:
+2025-03-24 20:24:34,999 - INFO - Total objects found: 0
+2025-03-24 20:24:34,999 - INFO - Successfully converted: 0
+2025-03-24 20:24:35,000 - INFO - Failed conversions: 0
+2025-03-24 20:24:35,000 - INFO - Skipped conversions: 0
+2025-03-24 20:24:35,000 - INFO - 
+Process completed!
